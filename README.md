@@ -1,34 +1,39 @@
 # Hi, I'm Samarth Singh 👋
 
-Backend Developer focused on building scalable systems using Python and modern backend technologies.
+Backend Developer focused on building scalable, production-ready systems using Python and modern backend technologies.
 
-I’m currently preparing for Backend Engineering Internships, Open Source Programs like GSSoC, and product-based company opportunities.
+I’m currently preparing for Backend Engineering Internships, product-based company opportunities, and open-source programs like GSSoC.
 
-I enjoy building production-oriented backend systems involving APIs, authentication, databases, caching, and system design.
+My focus is backend architecture, APIs, authentication systems, databases, caching, performance optimization, and system design.
+
+I believe strong engineering is not about building more projects — it is about building better systems.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Backend Engineering Stack
 
-### Backend
+### Core Backend
 - Python
 - FastAPI
 - Django
 - REST APIs
-- Authentication Systems
-- JWT
+- JWT Authentication
+- Role-Based Access Control (RBAC)
 - PostgreSQL
 - SQL
 
-### Tools & Systems
+### Systems & Infrastructure
 - Redis
 - Docker
 - Git & GitHub
 - Linux
+- Caching Systems
+- Rate Limiting
+- Async Processing
 - Celery (Learning)
-- System Design Fundamentals
+- Backend System Design
 
-### Supporting
+### Supporting Technologies
 - JavaScript
 - HTML
 
@@ -36,44 +41,114 @@ I enjoy building production-oriented backend systems involving APIs, authenticat
 
 ## 🔥 Featured Projects
 
-### 1. Rate Limiter System
-Production-style backend project implementing scalable request limiting using Python, Redis, and backend architecture principles.
+### ⚡ Rate Limiter System
 
-### 2. Authentication System
-JWT Auth + Refresh Tokens + Role-Based Access Control (RBAC) + Redis session management.
+Production-style backend system implementing scalable request limiting using Python, Redis, and backend architecture principles.
 
-### 3. Scalable API Project
-Backend system focused on clean architecture, optimization, and production readiness.
+### Features:
+- Token Bucket / Sliding Window Logic
+- Redis-based distributed rate limiting
+- FastAPI middleware integration
+- Production-ready architecture
+- Optimized request handling
 
-(More projects coming soon)
+---
+
+### 🔐 Authentication System
+
+JWT Authentication + Refresh Tokens + Role-Based Access Control (RBAC) + Redis session management.
+
+### Features:
+- Secure login system
+- Refresh token handling
+- Protected routes
+- Redis-backed session handling
+- Role-based access permissions
+
+---
+
+### 🚀 Scalable API Project
+
+Backend service designed with clean architecture, database optimization, and production readiness.
+
+### Focus Areas:
+- performance optimization
+- query efficiency
+- scalable API structure
+- backend best practices
+
+(More production-grade backend projects in progress)
 
 ---
 
 ## 🌍 Open Source
 
-Actively preparing for GSSoC and backend open-source contributions through issue solving, documentation improvements, and feature contributions.
+Actively preparing for GSSoC and backend open-source contributions through:
+
+- issue solving
+- documentation improvements
+- beginner-friendly pull requests
+- backend feature contributions
+- collaboration on production codebases
+
+Open source helps me improve engineering discipline and real-world development practices.
 
 ---
 
 ## 🧠 Problem Solving
 
-Consistently practicing Data Structures & Algorithms and improving problem-solving for internship interviews.
+Consistently practicing Data Structures & Algorithms for backend interviews and product-based company internship preparation.
+
+Current focus:
+- arrays & hashing
+- linked lists
+- trees
+- binary search
+- recursion
+- problem-solving patterns
 
 ---
 
 ## 📚 Currently Learning
 
+### Right Now:
 - Advanced FastAPI
 - Redis Deep Dive
 - PostgreSQL Optimization
-- Backend System Design
-- Docker for Production
-- Open Source Contributions
+- Docker for Backend Development
+- Production-grade System Design
+- Open Source Contribution Workflow
+
+Long-term goal:
+Building strong backend systems that solve real engineering problems.
+
+---
+
+## 📈 Engineering Mindset
+
+I focus on:
+
+- writing clean and maintainable code
+- building scalable backend systems
+- understanding system design deeply
+- solving real production problems
+- improving consistency over chasing shortcuts
+
+My goal is simple:
+
+Become the kind of backend engineer companies trust with production systems.
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: www.linkedin.com/in/samarthdoescode
+### LinkedIn
+www.linkedin.com/in/samarthdoescode
 
-Always open to backend discussions, internship opportunities, and open-source collaboration.
+I’m always open to:
+- backend engineering discussions
+- internship opportunities
+- open-source collaboration
+- building meaningful projects
+
+Let’s connect.
