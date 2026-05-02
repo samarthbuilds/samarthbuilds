@@ -1,4 +1,4 @@
-# Hi, I'm Samarth Singh 👋
+# Hi, I'm Samarth 👋
 
 Backend Developer focused on building scalable, production-ready systems using Python and modern backend technologies.
 
