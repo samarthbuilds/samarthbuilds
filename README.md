@@ -1,12 +1,12 @@
 # Hi, I'm Samarth 👋
 
-Backend Developer focused on building scalable, production-ready systems using Python and modern backend technologies.
+A Backend Developer focused on building scalable, production-ready systems using Python and modern backend technologies.
 
 I’m currently preparing for Backend Engineering Internships, product-based company opportunities, and open-source programs like GSSoC.
 
 My focus is backend architecture, APIs, authentication systems, databases, caching, performance optimization, and system design.
 
-I believe strong engineering is not about building more projects — it is about building better systems.
+I believe strong engineering is not about building more projects , it is about building better systems.
 
 ---
 
