@@ -2,7 +2,7 @@
 
 A Backend Developer focused on building scalable, production-ready systems using Python and modern backend technologies.
 
-I’m currently preparing for Backend Engineering Internships, product-based company opportunities, and open-source programs like GSSoC.
+I’m currently preparing for Backend Engineering Internships, product-based company opportunities, and open-source programs like GSOC.
 
 My focus is backend architecture, APIs, authentication systems, databases, caching, performance optimization, and system design.
 
