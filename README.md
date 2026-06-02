@@ -1,154 +1,91 @@
 # Hi, I'm Samarth 👋
 
-A Backend Developer focused on building scalable, production-ready systems using Python and modern backend technologies.
+Backend & AI Engineer focused on building scalable systems, intelligent applications, and production-ready infrastructure.
 
-I’m currently preparing for Backend Engineering Internships, product-based company opportunities, and open-source programs like GSOC.
+I'm passionate about backend architecture, distributed systems, AI-powered products, and solving real-world engineering problems through software.
 
-My focus is backend architecture, APIs, authentication systems, databases, caching, performance optimization, and system design.
+Currently building projects involving APIs, databases, caching, queue systems, AI workflows, retrieval systems, and system design.
 
-I believe strong engineering is not about building more projects , it is about building better systems.
+> Strong engineering is not about building more projects — it's about building better systems.
 
 ---
 
-## 🚀 Backend Engineering Stack
+## 🚀 Tech Stack
 
-### Core Backend
-- Python
-- FastAPI
-- Django
-- REST APIs
-- JWT Authentication
-- Role-Based Access Control (RBAC)
+### Backend
+- Node.js
+- TypeScript
+- Express.js
 - PostgreSQL
-- SQL
+- Prisma ORM
+- REST APIs
+- WebSockets
 
-### Systems & Infrastructure
+### Infrastructure & Scalability
 - Redis
+- BullMQ
 - Docker
-- Git & GitHub
+- CI/CD
 - Linux
-- Caching Systems
-- Rate Limiting
-- Async Processing
-- Celery (Learning)
-- Backend System Design
+- Monitoring
+- Logging
+- API Optimization
 
-### Supporting Technologies
-- JavaScript
-- HTML
+### AI Engineering
+- OpenAI APIs
+- RAG (Retrieval-Augmented Generation)
+- Embeddings
+- Vector Search
+- AI Workflows
 
 ---
 
 ## 🔥 Featured Projects
 
-### ⚡ Rate Limiter System
+### 🧠 AI Knowledge Base Platform
+Production-style RAG platform featuring document ingestion, semantic search, vector retrieval, AI-assisted responses, caching, and queue processing.
 
-Production-style backend system implementing scalable request limiting using Python, Redis, and backend architecture principles.
-
-### Features:
-- Token Bucket / Sliding Window Logic
-- Redis-based distributed rate limiting
-- FastAPI middleware integration
-- Production-ready architecture
-- Optimized request handling
+Tech: TypeScript, PostgreSQL, Redis, Vector Search, OpenAI APIs, BullMQ
 
 ---
 
-### 🔐 Authentication System
+### 🚨 Smart Incident Monitoring System
+Backend monitoring platform with logging, metrics collection, real-time events, retry queues, and AI-assisted debugging workflows.
 
-JWT Authentication + Refresh Tokens + Role-Based Access Control (RBAC) + Redis session management.
-
-### Features:
-- Secure login system
-- Refresh token handling
-- Protected routes
-- Redis-backed session handling
-- Role-based access permissions
+Tech: Node.js, WebSockets, Redis, BullMQ, Docker
 
 ---
 
-### 🚀 Scalable API Project
+### 🔐 Enterprise Authentication Service
+Authentication system implementing JWT, refresh tokens, RBAC, secure session handling, and production-grade security practices.
 
-Backend service designed with clean architecture, database optimization, and production readiness.
-
-### Focus Areas:
-- performance optimization
-- query efficiency
-- scalable API structure
-- backend best practices
-
-(More production-grade backend projects in progress)
+Tech: Express.js, PostgreSQL, Prisma, Redis
 
 ---
 
-## 🌍 Open Source
+## 🎯 Current Focus
 
-Actively preparing for GSSoC and backend open-source contributions through:
-
-- issue solving
-- documentation improvements
-- beginner-friendly pull requests
-- backend feature contributions
-- collaboration on production codebases
-
-Open source helps me improve engineering discipline and real-world development practices.
+- Backend Architecture
+- System Design
+- Distributed Systems Fundamentals
+- AI-Powered Applications
+- Open Source Contributions
+- Data Structures & Algorithms
 
 ---
 
-## 🧠 Problem Solving
+## 📈 Engineering Principles
 
-Consistently practicing Data Structures & Algorithms for backend interviews and product-based company internship preparation.
-
-Current focus:
-- arrays & hashing
-- linked lists
-- trees
-- binary search
-- recursion
-- problem-solving patterns
-
----
-
-## 📚 Currently Learning
-
-### Right Now:
-- Advanced FastAPI
-- Redis Deep Dive
-- PostgreSQL Optimization
-- Docker for Backend Development
-- Production-grade System Design
-- Open Source Contribution Workflow
-
-Long-term goal:
-Building strong backend systems that solve real engineering problems.
-
----
-
-## 📈 Engineering Mindset
-
-I focus on:
-
-- writing clean and maintainable code
-- building scalable backend systems
-- understanding system design deeply
-- solving real production problems
-- improving consistency over chasing shortcuts
-
-My goal is simple:
-
-Become the kind of backend engineer companies trust with production systems.
+- Build for reliability before complexity
+- Prioritize maintainability over shortcuts
+- Design systems that scale
+- Learn by building real products
+- Focus on fundamentals and consistency
 
 ---
 
 ## 📫 Connect With Me
 
-### LinkedIn
-www.linkedin.com/in/samarthdoescode
+LinkedIn: www.linkedin.com/in/samarthdoescode
 
-I’m always open to:
-- backend engineering discussions
-- internship opportunities
-- open-source collaboration
-- building meaningful projects
-
-Let’s connect.
+Always interested in collaborating on backend systems, AI applications, open-source projects, and engineering-focused discussions.
